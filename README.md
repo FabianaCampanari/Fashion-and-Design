@@ -1,4 +1,4 @@
-👗 Fashion Fabric Design
+👗 Fashion Fabric Print Design
 
 ✨ Innovative and exclusive fabric print designs for the fashion industry.
 
