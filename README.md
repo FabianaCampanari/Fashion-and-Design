@@ -5,5 +5,5 @@
 🤎 < made with love & joy />
  
  
-✨ The images below are from the " Blue Dragon " favric print which is one of my favorite creations.
+✨ The images below are from the " Blue Dragon " fabric print which is one of my favorite creations.
 
