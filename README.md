@@ -16,5 +16,17 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 ![VOGUE Magazone - It Dress - Black Dragon - Fabric Print  Design by Fabiana Campanari](https://user-images.githubusercontent.com/113218619/202534936-85331041-d3d1-452a-ad2b-fd09ea1726f9.jpg)
-__________________________________________________________________________________________________________________
-🚫 Copyright (c) 2022 Fabiana Campanari 🚫 Todos os direitos Resevados (c) 2022 Fabiana Campanari
+_____________________________________________________________________________________________
+
+🚫 Copyright (c) 2022 Fabiana Campanari
+
+🚫 Todos os direitos Resevados (c) 2022 Fabiana Campanari
+
+🚫 Copyright reserved .
+-The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
+
+🚫 Todos os Direitos Resevados .
+-O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
+
+
+
