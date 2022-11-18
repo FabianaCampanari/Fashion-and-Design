@@ -1,21 +1,20 @@
-🚫 Copyright (c) 2022 Fabiana Campanari
+🚫 Copyright (c) 2022, Fabiana Campanari 
+
+All rights reserved .
+
+The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
 
 🚫 Todos os direitos Resevados (c) 2022 Fabiana Campanari
 
-🚫 Copyright reserved .
--The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
-
-🚫 Todos os Direitos Resevados .
--O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
+O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
 
 
-BSD 3-Clause License
+Conditions :
 
 Copyright (c) 2022, Fabiana Campanari
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
