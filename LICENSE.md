@@ -1,10 +1,10 @@
 ⚖️ Fabiana Campanari Copyright License
 
-Copyright (c) 2022, Fabiana Campanari.
+- Copyright (c) 2022, Fabiana Campanari.
 
 The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
 
-Todos os direitos Resevados (c) 2022, Fabiana Campanari
+-  Todos os direitos Resevados (c) 2022, Fabiana Campanari
 
 O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
 
