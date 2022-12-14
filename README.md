@@ -1,6 +1,6 @@
 👗 Fashion Fabric Print Design
 
-✨ Innovative and exclusive fabric print designs for  fashion industry.
+✨ Innovative and exclusive fabric print designs for the fashion industry.
 
  < made with love & joy /> 🤎
 _________________________________________________________________________________________________________________ 
