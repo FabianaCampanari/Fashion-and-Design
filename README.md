@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 ⚖️ Fabiana Campanari License
 
-🔅 Copyright (c) 2022 Fabiana Campanari.
+Copyright (c) 2022 Fabiana Campanari.
 
-🔅 Todos os direitos Resevados (c) 2022 Fabiana Campanari.
+Todos os direitos Resevados (c) 2022 Fabiana Campanari.
 
