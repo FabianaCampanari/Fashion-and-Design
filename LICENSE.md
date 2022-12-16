@@ -11,10 +11,6 @@ O autor permite apenas a visualização do código sendo proibida qualquer utili
 
 -  Conditions :
 
-Copyright (c) 2022, Fabiana Campanari
-All rights reserved.
-
-
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
