@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabric Print Design - by Fabiana Campanari](https://user-images.githubusercontent.com/113218619/202533568-99632731-7e1e-46a6-95
+![Blue Dragon - Fabric Print Design - by Fabiana Campanari]a6-95
  
  #
 
