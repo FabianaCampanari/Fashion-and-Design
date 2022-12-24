@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon  
+![Blue Dra  
  
  #
 
