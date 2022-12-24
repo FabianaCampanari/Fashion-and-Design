@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabric Print Design - by Fabiana Campanari]a
+![Blue Dragon - Fabric Print Design - by Fabiana Campana
  
  #
 
