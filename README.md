@@ -7,7 +7,7 @@
  #
  
   <p align="center">
- <img src="https://user-images.githubusercontent.com/113218619/205453739-55f03692-1250-4269-9933-08c17a46b41b.png" />
+ <img src="" />
 ✨ The images below are from the " Blue Dragon " , Fabric Print Design which is one of my favorite creations.
 
 ![Blue Dragon - Fabric Print Design - by Fabiana Campanari](https://user-images.githubusercontent.com/113218619/202533568-99632731-7e1e-46a6-95f4-fa43e9f6fe42.jpg)
