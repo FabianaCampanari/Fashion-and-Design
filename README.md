@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabri 
+![Blue Dragon - Fa 
  
  #
 
