@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabric Print Design - by Fabi 
+![Blue Dragon - Fabric Print Design - by 
  
  #
 
