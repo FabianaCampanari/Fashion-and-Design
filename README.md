@@ -15,7 +15,7 @@
 
 ![Giovana Antonelli - Blue Dragon - Fabric Print Design by ](https://user-images.githubusercontent.com/113218619/202533942-5af46743-30b4-42d2-9bb0-90c6a4e1cc88.png)
 
-__________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________
 ![Ingrid Guimarães - Blue Dragon - Fabric Print Design by Fabiana Campanari](https://user-images.githubusercontent.com/113218619/202534645-5fcf85cf-c91d-43eb-ba22-6f0b6cf12650.jpg)
 __________________________________________________________________________________________________________________
 
