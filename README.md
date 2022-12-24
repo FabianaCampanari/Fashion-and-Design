@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabric Print D 
+![Blue Dragon - Fabric Prin 
  
  #
 
