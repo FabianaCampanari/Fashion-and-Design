@@ -3,7 +3,7 @@
  <p align="center"> ✨ Innovative and exclusive fabric print designs for the fashion industry. </p>
 
  <p align="center"> < made with love & joy /> 🤎 </p>
-__
+ 
  
 ✨ The images below are from the " Blue Dragon " , Fabric Print Design which is one of my favorite creations.
 
