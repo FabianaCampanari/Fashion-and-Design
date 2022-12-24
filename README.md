@@ -13,7 +13,7 @@
  
 
 
-![Blue Dragon - Fabric Print Desi 
+![Blue Dragon - Fabric Print D 
  
  #
 
