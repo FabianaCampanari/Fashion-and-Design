@@ -16,7 +16,7 @@
  <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/202533942-5af46743-30b4-42d2-9bb0-90c6a4e1cc88.png" />
   
-![Giovana Antonelli 
+![Giovana Antone 
 
 #
 
