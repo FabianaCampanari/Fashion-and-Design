@@ -1,6 +1,6 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
- <p align="center"> ✨ 🌟 Innovative and exclusive fabric print designs for the fashion industry. </p>
+ <p align="center"> 🌟 Innovative and exclusive fabric print designs for the fashion industry. </p>
 
  <p align="center"> < made with love & joy /> 🤎 </p>
  
