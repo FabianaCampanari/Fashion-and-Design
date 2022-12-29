@@ -6,7 +6,7 @@
  
  #
  
- ✨ The images below are from the " Blue Dragon " , Fabric Print Design which is one of my favorite creations .
+ ✨ The images below are from the " Blue Dragon " Fabric Print Design which is one of my favorite creations .
  
   <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/202533568-99632731-7e1e-46a6-95f4-fa43e9f6fe42.jpg" />
