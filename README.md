@@ -18,7 +18,7 @@
   
 #
 
-_________________
+_______
  
  ![Ingrid Guimarães Revista Quem](https://user-images.githubusercontent.com/113218619/209479491-30d4da63-ad5e-42c8-ab19-04c517659ff0.jpeg)
 
