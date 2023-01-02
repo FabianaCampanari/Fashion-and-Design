@@ -17,8 +17,6 @@
   <img src="https://user-images.githubusercontent.com/113218619/202533942-5af46743-30b4-42d2-9bb0-90c6a4e1cc88.png" />
   
 #
-
-_______
  
  ![Ingrid Guimarães Revista Quem](https://user-images.githubusercontent.com/113218619/209479491-30d4da63-ad5e-42c8-ab19-04c517659ff0.jpeg)
 
