@@ -14,13 +14,12 @@
  #
 
 ![Giovana Antonelli](https://user-images.githubusercontent.com/113218619/210439095-a2dd4a0f-513c-471d-afd7-75fa37701f19.png)
-
   
 #
  
- 
+ ![Ingrid Guimares ](https://user-images.githubusercontent.com/113218619/210439254-7d5c75dc-036e-4832-a14c-a7109e1a1613.jpeg)
 
-   #
+
    
   
    
