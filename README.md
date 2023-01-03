@@ -32,7 +32,7 @@
 
 _____________________
 
-![VOGUE Magazone - It Dress - Black Dragon - Fabric Print  Design by Fabiana Campanari](https://user-images.githubusercontent.com/113218619/202534936-85331041-d3d1-452a-ad2b-fd09ea1726f9.jpg)
+
 ____________________________________________________________________________
 
 ______________________________________________________________________
