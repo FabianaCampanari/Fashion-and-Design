@@ -11,10 +11,9 @@
   <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg" />
    
-  
-
  #
 
+![Giovana Antonelli](https://user-images.githubusercontent.com/113218619/210439095-a2dd4a0f-513c-471d-afd7-75fa37701f19.png)
 
   
 #
