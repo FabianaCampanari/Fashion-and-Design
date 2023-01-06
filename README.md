@@ -29,7 +29,7 @@ ____________________________________________________________________________
 ______________________________________________________________________
 
 
-<p align="center"> ⚖︎ This project is licensed under the FABIANA CAMPA License. </p>
+<p align="center"> ⚖︎ This project is licensed under the FABIANA  License. </p>
 
 <p align="center"> Copyright (c) 2022 Fabiana Campanari. </p>
 
