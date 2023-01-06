@@ -1,6 +1,6 @@
-⚖︎ Fabiana Campanari Copy License.
+⚖︎ Fabiana Campanari License.
 
-- Copyright (c) 2022, Fabiana Campanari.
+- Copyright (c) 2022, Fabiana Campanari
 
 The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
 
