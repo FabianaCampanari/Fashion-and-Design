@@ -6,7 +6,7 @@
 
 -  Todos os direitos Resevados (c) 2022, Fabiana Campanari
 
-O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
+- O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
 
 
 -  Conditions :
