@@ -17,7 +17,7 @@
   
 #
  
- ![Ingrid Guimares ](https://user-images.githubusercontent.com/113218619/210439254-7d5c75dc-036e-4832-a14c-a7109e1a1613.jpeg)
+
  
    #
    
