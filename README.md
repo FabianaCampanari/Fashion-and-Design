@@ -13,7 +13,7 @@
    
  #
 
-![Giovana Antonelli](https://user-images.githubusercontent.com/113218619/210439095-a2dd4a0f-513c-471d-afd7-75fa37701f19.png)
+
   
 #
  
