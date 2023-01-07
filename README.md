@@ -27,7 +27,7 @@
  <img src="https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg" />
  
  #
-________________________________
+__________________________
 ________________________________________
 
 <p align="center"> ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
