@@ -27,7 +27,7 @@
    
 #
  
-<p align="center"> ✨ Quem Brazilian Magazine
+<p align="center"> ✨ Quem Brazilian Magazine </p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg" />
