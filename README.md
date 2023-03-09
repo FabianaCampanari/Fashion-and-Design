@@ -2,9 +2,7 @@
 
 🌟 Innovative and Exclusive Fabric Print Designs for the Fashion Industry.  
 
-#
-
- <p align="center"> < made with love & joy /> 🤎 </p>
+####<p align="center"> < made with love & joy /> 🤎 </p>
  
  #
  
