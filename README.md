@@ -14,6 +14,8 @@
  <img src="https://user-images.githubusercontent.com/113218619/210438695-3090a4d4-d53b-428e-ba6b-c56e44c1105e.jpeg" />
    
  #
+ 
+ Contigo Brazilian Magazine
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png" />
