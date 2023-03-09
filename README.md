@@ -10,7 +10,7 @@
  
  #
  
-🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations.
+ <p align="center"> 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
 
  
   <p align="center">
