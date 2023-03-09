@@ -15,19 +15,21 @@
    
  #
  
- Contigo Brazilian Magazine
+Contigo Brazilian Magazine
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png" />
    
 #
  
- Quem Brazilian Magazine
+Quem Brazilian Magazine
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg" />
 
    #
+   
+Vogue Brazil - It Dress
    
  <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211164259-6e55cf57-4ad4-456f-96d4-7850e73a5ca8.jpeg" />
