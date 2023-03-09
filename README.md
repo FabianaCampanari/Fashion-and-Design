@@ -21,14 +21,14 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163770-128394e8-28ab-4d2f-be52-26fe18973ea3.png" />
  
-<p align="center"> ✨ Contigo Brazilian Magazine ✨ Giovanna Antonelli ✨ Brazilian Actress  </p>
+<p align="center"> ✨ CONTIGO - Brazilian Magazine ✨ Giovanna Antonelli ✨ Brazilian Actress  </p>
    
 #
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/211163974-cdb8e6f8-fe18-4062-a22f-9eb40a883eb1.jpeg" />
  
- <p align="center"> ✨ QUEM Brazilian Magazine ✨ Ingrid Guimarães ✨ Brazilian Actress </p>
+ <p align="center"> ✨ QUEM - Brazilian Magazine ✨ Ingrid Guimarães ✨ Brazilian Actress </p>
 
    #
    
