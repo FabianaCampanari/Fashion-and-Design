@@ -4,8 +4,6 @@
 
 <p align="center"> ✨ All Designs were developed using Adobe Illustrator. </p>
 
-#
-
 <p align="center"> < made with love & joy /> 🤎 </p>
  
  #
