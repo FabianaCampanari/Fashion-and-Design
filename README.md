@@ -1,6 +1,8 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
-<p align="center"> 🌟 Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
+<p align="center"> ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
+
+<p align="center"> ✨
 
 #
 
@@ -8,7 +10,7 @@
  
  #
  
-✨ Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations.
+🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations.
 
  
   <p align="center">
