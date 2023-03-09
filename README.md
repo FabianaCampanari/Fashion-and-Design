@@ -2,7 +2,7 @@
 
 <p align="center"> ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
 
-<p align="center"> ✨
+<p align="center"> ✨ All Designs were developed using Adobe Illustrator. </p>
 
 #
 
