@@ -39,7 +39,7 @@
 
  #
  
-<p align="center"> ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
+<p align="center"> ⚖︎ This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE. </p>
 
 <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
