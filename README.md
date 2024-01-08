@@ -2,9 +2,6 @@
 
 ## Sponsor this Project
 
-[![Sponsor](https://github.com/sponsors/FabianaCampanari/button)](https://github.com/sponsors/FabianaCampanari)
-
-
 <p align="center"> ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
 
 <p align="center"> ✨ All Designs were developed using Adobe Illustrator. </p>
