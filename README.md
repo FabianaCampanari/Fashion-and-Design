@@ -1,6 +1,5 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
-## Sponsor this Project
 
 <p align="center"> ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
 
