@@ -42,6 +42,10 @@
  <p align="center"> ✨ VOGUE - Brazil ✨ It Dress </p>
 
  #
+
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.]()
+
+
  
  
 ##### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. </p>
