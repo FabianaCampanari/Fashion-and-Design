@@ -1,13 +1,12 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
-#### # <p align="center">  [Work on the site project is currently underway. You can track the development here.]()
+####  <p align="center">  [Work on the site project is currently underway. You can track the development here.]()
 
 #
 
+ ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
 
-<p align="center"> ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
-
-<p align="center"> ✨ All Designs were developed using Adobe Illustrator. </p>
+ ✨ All Designs were developed using Adobe Illustrator. </p>
 
 <p align="center"> < made with love & joy /> 🧡 </p>
  
