@@ -8,7 +8,7 @@
 
  ✨ All Designs were developed using Adobe Illustrator. </p>
 
-### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
+##### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
  
  #
  
