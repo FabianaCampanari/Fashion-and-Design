@@ -1,6 +1,6 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
-####  <p align="center">  [Work on the site project is currently underway. You can track the development here.](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
+####  <p align="center">  Work on the site project is currently underway. You can track the development [here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
 
 #
 
