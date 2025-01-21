@@ -1,7 +1,7 @@
 # <p align="center"> 👗 Fashion Fabric Print Design </p>
 
 
- ####  <p align="center">  ✨ All Designs were developed using Adobe Illustrator. </p>
+ ####  <p align="center">  ✨ All Designs were developed using Adobe Illustrator and Figma </p>
 
  
  ####  <p align="center">  ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
@@ -10,11 +10,11 @@
 
 ##### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
  
- #
+<br>
  
- <p align="center"> 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
+## 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
 
-  <p align="center"> ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
+###  ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
 
  ![Image](https://github.com/user-attachments/assets/d36753c9-1de2-4386-a917-2f372f99e238)
 
