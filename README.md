@@ -1,14 +1,18 @@
-# <p align="center"> 👗 Fashion Fabric Print Design </p>
+<br><br>
 
 
- ####  <p align="center">  ✨ All Designs were developed using Adobe Illustrator and Figma </p>
+# <p align="center"> 👗 Innovative and Exclusive Fabric Print Designs for the Fashion Industry </p>
+
+
+ ###  <p align="center">  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
 
  
- ####  <p align="center">  ✨ Innovative and Exclusive Fabric Print Designs for the Fashion Industry. </p>
 
- ####  <p align="center"> ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
+ ### <p align="center"> ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
 
-##### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
+<br>
+
+##### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
  
 <br>
  
@@ -52,9 +56,9 @@
 
   <br><br>
 
-   <p align="center"> 🌟 Images below are from " Cosmos " Exclusive Fabric Print Design Developed For Tidsy Fashion Branding Rio de Janeiro - Brazil 
+  ## <p align="center"> 🌟 Images below are from " Cosmos " Exclusive Fabric Print Design Developed For Tidsy Fashion Branding Rio de Janeiro - Brazil 
     
-  <p align="center"> ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
+  ### <p align="center"> ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
 
   ![Image](https://github.com/user-attachments/assets/e5d9d9aa-876b-485e-92dd-c3bbed94b9fe)
 
