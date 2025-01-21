@@ -50,10 +50,10 @@
 
   #
 
-  <br>
+  <br><br>
 
-   <p align="center"> 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
-
+   <p align="center"> 🌟 Images below are from " Cosmos " Exclusive Fabric Print Design Developed For Tidsy Fashion Branding Rio de Janeiro - Brazil 
+    
   <p align="center"> ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
 
   ![Image](https://github.com/user-attachments/assets/e5d9d9aa-876b-485e-92dd-c3bbed94b9fe)
