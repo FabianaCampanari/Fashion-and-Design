@@ -1,5 +1,11 @@
+
 <br><br>
 
+https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
+
+><br>
+
+#### Paris Fashion Week - MICHAEL RIDE - Summerv 2026
 
 # <p align="center"> 👗 Innovative and Exclusive Fabric Print Designs for the Fashion Industry </p>
 
