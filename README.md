@@ -3,11 +3,12 @@
 
 https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
 
-><br>
-
 #### Paris Fashion Week - MICHAEL RIDE - Summerv 2026
 
-# <p align="center"> 👗 Innovative and Exclusive Fabric Print Designs for the Fashion Industry </p>
+<br><br>
+
+
+# <p align="center"> 👗 [Innovative and Exclusive Fabric Print Designs  Dresses  and Other Looks]() for the Fashion Industry </p>
 
 
  ###  <p align="center">  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
