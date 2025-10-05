@@ -8,21 +8,23 @@ https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
 <br><br>
 
 
-# <p align="center"> 👗 [Innovative and Exclusive Fabric Print Designs  Dresses  and Other Looks]() for the Fashion Industry </p>
+## <p align="center"> 👗 [Innovative and Exclusive Fabric Print Designs  Dresses  and Other Looks]() for the Fashion Industry </p>
 
+<br><br>
 
- ###  <p align="center">  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
+<p align="center">  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
 
  
 
- ### <p align="center"> ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
+<p align="center"> ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
 
-<br>
 
-##### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
+##### <p align="center">  ***< made with vibe, elegance & joy />*** 👛  </p>
  
-<br>
+
+<br><br><br>
  
+
 ## 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
 
 ###  ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
