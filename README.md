@@ -12,11 +12,11 @@ https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
 
 <br><br>
 
-<p align="center">  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
+  ✨ Each of my fashion designs is a harmonious blend of meticulous craftsmanship and creative passion. Brought to life through Freehand Drawing, Adobe Illustrator, and Figma, every piece reflects not just skill but heart and soul—capturing the essence of artistry and innovation.
 
- 
+ <br>
 
-<p align="center"> ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
+ ✨ Work on the site project is currently underway. You can track the development [🔗 here](https://web.archive.org/web/20130922083906/http://fabidesigner.com/index.html)
 
 
 ##### <p align="center">  ***< made with vibe, elegance & joy />*** 👛  </p>
