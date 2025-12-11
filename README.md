@@ -27,16 +27,14 @@
 
 
 
-##  👒  At the 2026 #MetGala, the @MetMuseum will celebrate its spring Met Costume Institute exhibition, titled “Costume Art.” Set to host the fête ?
-### #VogueMagazine  🍂 VenusWilliams
+##  👒  At the 2026 #MetGala, the @MetMuseum will celebrate its spring Met Costume Institute exhibition, titled “Costume Art.
+### Set to host the fête ?
+####  VogueMagazine  🍂 VenusWilliams
 
 
-<br>
+<br><br>
 
 https://github.com/user-attachments/assets/04cea2f5-261b-4845-beb2-b2f71542f738
-
-
-
 
 <br><br>
 
