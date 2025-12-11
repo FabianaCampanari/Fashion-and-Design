@@ -16,13 +16,7 @@
 ##### <p align="center">  ***< made with vibe, elegance & joy />*** 👛  </p>
  
 
-<br><br><br>
- 
-
-
-
-
-
+<br><br><br><br><br>
 
 
 
@@ -36,19 +30,16 @@
 
 https://github.com/user-attachments/assets/04cea2f5-261b-4845-beb2-b2f71542f738
 
-<br><br>
+
+
+<br><br><br><br><br>
 
 
 
 ##  <p align="center">  Paris Fashion Week - Celine nby MICHAEL RIDE - Summerv 2026
 
 
-
-
-
-
-
-<br>
+<br><br>
 
 
 https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
@@ -62,7 +53,6 @@ https://github.com/user-attachments/assets/921af341-5188-41bc-ac37-728d43a5aae3
 ## 🌟 Images below are from " Blue Dragon " Fabric Print Design which is one of my favorite creations. </p>
 
 ###  ✨ Fabric Print Design - 1.80cm X 0.90 cm ✨ </p> 
-
  ![Image](https://github.com/user-attachments/assets/d36753c9-1de2-4386-a917-2f372f99e238)
 
  <!--
