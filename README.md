@@ -17,11 +17,19 @@
  
 
 <br><br><br>
+ 
 
 
 
 
-##
+
+
+
+
+
+##  👒  At the 2026 #MetGala, the @MetMuseum will celebrate its spring Met Costume Institute exhibition, titled “Costume Art.” Set to host the fête ?
+### #VogueMagazine  🍂 VenusWilliams
+
 
 <br>
 
@@ -35,6 +43,12 @@ https://github.com/user-attachments/assets/04cea2f5-261b-4845-beb2-b2f71542f738
 
 
 ##  <p align="center">  Paris Fashion Week - Celine nby MICHAEL RIDE - Summerv 2026
+
+
+
+
+
+
 
 <br>
 
